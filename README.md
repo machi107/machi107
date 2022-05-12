@@ -1,5 +1,5 @@
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Machi107's%Github&fontSize=40&animation=fadeIn&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Machi107's%20Github&fontSize=40&animation=fadeIn&fontAlignY=40)
 
 
 <div align="center">
