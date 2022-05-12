@@ -3,7 +3,14 @@
 
 
 <div align="center">
-  <i>Baekjoon Online</i>
+
+<a href="https://velog.io/@machi107"><img src="https://img.shields.io/badge/Machi107-Velog-FF00FF?s?style=for-the-badge&logo=appveyor&logo=Blogger&logoColor=white"/></a>
+
+<a href="https://blog.naver.com/machi107"><img src="https://img.shields.io/badge/Machi107-Blog-008000?s?style=for-the-badge&logo=appveyor&logo=Blogger&logoColor=white"/></a>
+
+  
+  
+  <i><h1>Baekjoon Tier</h1></i>
   
 <br />
   
